@@ -12,8 +12,9 @@ O gerente de TI começa implementando a estrutura de segurança cibernética do 
 <br></br> 
 <hr>
 
-![Image](https://github.com/user-attachments/assets/c8d1922f-e812-4096-8197-5e9ef62bf37b)
-![Image](https://github.com/user-attachments/assets/7a181ef8-c62d-46ed-a9f9-d2c21e7fd2e5)
-![Image](https://github.com/user-attachments/assets/8b21e9fc-a82e-451b-aee8-8ef5a7d88ad6)
-![Image](https://github.com/user-attachments/assets/a068d58c-6bb2-4a39-bf23-4b5ef08f04e3)
-![Image](https://github.com/user-attachments/assets/a53dbb35-2c39-458c-80ca-6d4925d8405e)
+![Image](https://github.com/user-attachments/assets/d2223014-14fb-46cd-910a-ba4ccc31e5cd)
+![Image](https://github.com/user-attachments/assets/56d2085b-fce9-4d14-a3cc-c23d963fb8cd)
+![Image](https://github.com/user-attachments/assets/1e326cba-1e7b-42c9-b5c3-3215a2774b09)
+![Image](https://github.com/user-attachments/assets/4e11cf6c-2026-4067-8658-e4d4467237c2)
+![Image](https://github.com/user-attachments/assets/67a7b86c-1d97-40a8-921f-e75bce657d31)
+![Image](https://github.com/user-attachments/assets/6d21c4e1-a220-4118-ab1b-d313c24b3e4d)
